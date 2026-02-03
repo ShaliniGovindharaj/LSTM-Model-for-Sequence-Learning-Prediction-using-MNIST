@@ -1,6 +1,6 @@
 # LSTM-Model-for-Sequence-Learning-Prediction-using-MNIST
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an **end‑to‑end implementation of an LSTM (Long Short‑Term Memory) neural network** for sequence learning and prediction tasks. LSTM is a special type of Recurrent Neural Network (RNN) designed to capture **long‑term dependencies** in sequential data and overcome the vanishing gradient problem of traditional RNNs.
 
@@ -12,7 +12,7 @@ LSTM.ipynb
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Understand sequence and time‑series learning
 * Preprocess data suitable for LSTM input
@@ -22,7 +22,7 @@ LSTM.ipynb
 
 ---
 
-## 📂 Key Concepts Covered
+##  Key Concepts Covered
 
 * Loading sequential / time‑series data
 * Feature scaling and sequence generation
@@ -33,7 +33,7 @@ LSTM.ipynb
 
 ---
 
-## ⚙️ Notebook Workflow
+## Notebook Workflow
 
 1. Import required Python libraries
 2. Load the dataset
@@ -46,7 +46,7 @@ LSTM.ipynb
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 The LSTM network typically consists of:
 
@@ -59,7 +59,7 @@ LSTM cells use gated mechanisms to retain or forget information, making them eff
 
 ---
 
-## 📊 Training & Evaluation
+##  Training & Evaluation
 
 * **Optimizer:** Adam
 * **Loss Function:** Categorical Crossentropy / MSE
@@ -70,7 +70,7 @@ Training and validation curves are plotted for better performance analysis.
 
 ---
 
-## 🛠️ Dependencies
+##  Dependencies
 
 Install required libraries using:
 
@@ -80,7 +80,7 @@ pip install tensorflow numpy pandas matplotlib jupyter
 
 ---
 
-## 📚 References
+##  References
 
 * Long Short‑Term Memory (LSTM) Networks
 * Recurrent Neural Networks (RNN)
